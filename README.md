@@ -1,6 +1,6 @@
 ## What is HTTP INTERACTION discord bot?
 - An Interaction Discord Bot writing using new **HTTP API**
-- Although this type of bot is offlined, it still can be continue working properly.
+- Although the bot is offlined, it still can be continue working properly.
 - There's no any status (`online`, `offline`, `idle`, `dnd`, `streaming`) to this type of bot.
 
 <img class="httpImg" src="https://cdn.discordapp.com/attachments/958979886528221244/969958354409627718/unknown.png" alt="httpInteractionDCbot">
