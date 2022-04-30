@@ -1,9 +1,22 @@
 ## What is HTTP INTERACTION discord bot?
-- A Interaction Discord Bot writing using new **HTTP API**
+- An Interaction Discord Bot writing using new **HTTP API**
 - Although this type of bot is offlined, it still can be continue working properly.
 - There's no any status (`online`, `offline`, `idle`, `dnd`, `streaming`) to this type of bot.
 
 <img class="httpImg" src="https://cdn.discordapp.com/attachments/958979886528221244/969958354409627718/unknown.png" alt="httpInteractionDCbot">
+
+## This project is referred from:
+- [slash command discor bot (fastify)](https://ianmitchell.dev/blog/creating-a-discord-http-slash-command-bot-with-fastify)
+- [offical github discord api](https://github.com/discord/discord-example-app)
+
+## Required Packages:
+- [fastify](https://www.npmjs.com/package/fastify)
+- [ngrok](https://www.npmjs.com/package/ngrok)
+- [node-fetch](https://www.npmjs.com/package/node-fetch)
+- [fastify-raw-body](https://www.npmjs.com/package/fastify-raw-body)
+- [discord-interactions](https://www.npmjs.com/package/discord-interactions)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+
 
 # Set up interactivity
 - The project needs a public endpoint where Discord can send requests. To develop and test locally, you can use something like ngrok to tunnel HTTP traffic.
