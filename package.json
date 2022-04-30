@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "http interaction application discord bot",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "register": "node -r dotenv/config register.js",
+    "start": "node -r dotenv/config server.js"
+  },
+  "author": "ChinGH#2459",
+  "license": "ISC",
+  "dependencies": {
+    "discord-interactions": "^3.2.0",
+    "dotenv": "^16.0.0",
+    "fastify": "^3.29.0",
+    "fastify-raw-body": "^3.2.0",
+    "ngrok": "^4.3.1",
+    "node-fetch": "^3.2.4"
+  }
+}
