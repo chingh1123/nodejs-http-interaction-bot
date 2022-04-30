@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 import { SLAP_COMMAND, INVITE_COMMAND } from "./commands.js";
 
-const guildId = "851287403456626713";
+const guildId = "Your guild id here";
 
 const response = await fetch(
   `https://discord.com/api/v8/applications/${process.env.APPLICATION_ID}/guilds/${guildId}/commands`,
