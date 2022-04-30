@@ -41,3 +41,13 @@ Connections                  ttl     opn     rt1     rt5     p50     p90
 Copy the forwarding address that starts with https, in this case https://1234-someurl.ngrok.io, then go to your [app's settings](https://discord.com/developers/applications) and paste it to the **Interactions Endpoint URL** option.
 
 <img class="httpImg" src="https://cdn.discordapp.com/attachments/958979886528221244/969957873004204073/unknown.png" alt="INTERACTIONS ENDPOINT URL">
+
+## How to run?
+- Type this in your terminal and enter it:
+```
+npm run register
+```
+and then you are all set!
+
+# ⚠️ Note
+- This project's commands still is not stable, it only can let the bot become type of http interaction
