@@ -11,8 +11,7 @@ export const SLAP_COMMAND = {
     ],
   };
   
-  export const INVITE_COMMAND = {
+export const INVITE_COMMAND = {
     name: "invite",
     description: "Get an invite link to add the bot to your server",
-  };
-  
+};
