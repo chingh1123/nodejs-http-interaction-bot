@@ -29,13 +29,14 @@ ngrok http 3000
 You should see your connection open:
 
 ```
-Tunnel Status                 online
-Version                       2.0/2.0
-Web Interface                 http://127.0.0.1:4040
-Forwarding                    http://1234-someurl.ngrok.io -> localhost:3000
-Forwarding                    https://1234-someurl.ngrok.io -> localhost:3000
-
-Connections                  ttl     opn     rt1     rt5     p50     p90
+Session Status                online    
+Session Expires               1 hour, 59 minutes                                                                        
+Version                       2.3.40                                                                                   
+Region                        United States (us)                                                                        
+Web Interface                 http://127.0.0.1:4040                                                                     
+Forwarding                    http://1234-someurl.ngrok.io -> http://localhost:3000      
+Forwarding                    https://1234-someurl.ngrok.io -> http://localhost:3000                                                                                                                             
+Connections                   ttl     opn     rt1     rt5     p50     p90                                                                             
                               0       0       0.00    0.00    0.00    0.00
 ```
 Copy the forwarding address that starts with https, in this case https://1234-someurl.ngrok.io, then go to your [app's settings](https://discord.com/developers/applications) and paste it to the **Interactions Endpoint URL** option.
