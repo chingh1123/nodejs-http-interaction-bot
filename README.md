@@ -16,7 +16,6 @@
 -   [x] [node-fetch](https://www.npmjs.com/package/node-fetch)
 -   [x] [fastify-raw-body](https://www.npmjs.com/package/fastify-raw-body)
 -   [x] [discord-interactions](https://www.npmjs.com/package/discord-interactions)
--   [x] [dotenv](https://www.npmjs.com/package/dotenv)
 
 
 # Set up interactivity
