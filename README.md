@@ -6,8 +6,8 @@
 <img class="httpImg" src="https://cdn.discordapp.com/attachments/958979886528221244/969958354409627718/unknown.png" alt="httpInteractionDCbot">
 
 ## This project is referred from:
-- [slash command discor bot (fastify)](https://ianmitchell.dev/blog/creating-a-discord-http-slash-command-bot-with-fastify)
-- [offical github discord api](https://github.com/discord/discord-example-app)
+- [Slash Command Discord Bot (fastify)](https://ianmitchell.dev/blog/creating-a-discord-http-slash-command-bot-with-fastify)
+- [Offical Github Discord API](https://github.com/discord/discord-example-app)
 
 ## Required Packages:
 - [fastify](https://www.npmjs.com/package/fastify)
