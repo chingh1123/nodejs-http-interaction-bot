@@ -17,6 +17,10 @@
 -   [x] [fastify-raw-body](https://www.npmjs.com/package/fastify-raw-body)
 -   [x] [discord-interactions](https://www.npmjs.com/package/discord-interactions)
 
+## For copy the codes in this project, do:
+```
+git clone https://github.com/chingh1123/nodejs-http-interaction-bot/
+```
 
 # Set up interactivity
 - The project needs a public endpoint where Discord can send requests. To develop and test locally, you can use something like ngrok to tunnel HTTP traffic.
