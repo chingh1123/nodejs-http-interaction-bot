@@ -1,6 +1,7 @@
 ## What is HTTP INTERACTION discord bot?
 - An Interaction Discord Bot writing using new **HTTP API**
 - Although the bot is offlined, it still can be continue working properly.
+- Only can use application commands, X no message content command
 - There's no any status (`online`, `offline`, `idle`, `dnd`, `streaming`) to this type of bot.
 
 <img class="httpImg" src="https://cdn.discordapp.com/attachments/958979886528221244/969958354409627718/unknown.png" alt="httpInteractionDCbot">
@@ -10,12 +11,12 @@
 - [Offical Github Discord API](https://github.com/discord/discord-example-app)
 
 ## Required Packages:
-- [fastify](https://www.npmjs.com/package/fastify)
-- [ngrok](https://www.npmjs.com/package/ngrok)
-- [node-fetch](https://www.npmjs.com/package/node-fetch)
-- [fastify-raw-body](https://www.npmjs.com/package/fastify-raw-body)
-- [discord-interactions](https://www.npmjs.com/package/discord-interactions)
-- [dotenv](https://www.npmjs.com/package/dotenv)
+-   [x] [fastify](https://www.npmjs.com/package/fastify)
+-   [x] [ngrok](https://www.npmjs.com/package/ngrok)
+-   [x] [node-fetch](https://www.npmjs.com/package/node-fetch)
+-   [x] [fastify-raw-body](https://www.npmjs.com/package/fastify-raw-body)
+-   [x] [discord-interactions](https://www.npmjs.com/package/discord-interactions)
+-   [x] [dotenv](https://www.npmjs.com/package/dotenv)
 
 
 # Set up interactivity
