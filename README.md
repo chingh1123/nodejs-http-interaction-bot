@@ -49,5 +49,7 @@ npm run register
 ```
 and then you are all set!
 
+- do ```npm start``` for start booting the server.
+
 # ⚠️ Note
-- Remember don't close the `ngrok http 3000` terminal, or else the commands in the bot will not be working
+- Remember don't close the `ngrok http 3000` terminal & ```npm start``` terminal, or else the commands in the bot will not be working
