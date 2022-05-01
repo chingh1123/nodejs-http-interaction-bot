@@ -50,4 +50,4 @@ npm run register
 and then you are all set!
 
 # ⚠️ Note
-- This project's commands still is not stable, it only can let the bot become type of http interaction
+- Remember don't close the `ngrok http 3000` terminal, or else the commands in the bot will not be working
